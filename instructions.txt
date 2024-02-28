@@ -1,0 +1,70 @@
+POINTS: 5
+
+Description:
+Design and develop the owner of the UOH Sugarland cafeteria's biographical page.
+As you tackle the task of creating the owner's biography page and the cafeteria's main page, I'm
+excited to see your creativity shine. Your challenge is to come up with original designs that capture
+the essence of the restaurant. Remember, no copying from others – make it your own!
+For the owner's bio, don't forget to add a picture of your headshot. And make sure the bio page
+links directly to the main restaurant page.
+Keep it real and make it great!
+
+RUBRICS FOR ASSIGNMENT 1
+
+1. HTML Structure (10 points):
+(DONE) - The HTML file is correctly structured with `<!DOCTYPE html>`, `<html>`, `<head>`, and
+        `<body>` tags. (5/10)
+- Proper use of semantic tags such as `<header>`, `<main>`, `<section>`, and `<footer>`. (5/10)
+
+2. Content (15 points):
+- Contains relevant content including title, navigation menu, welcome message, contact
+information, and call-to-action buttons. (10/15)
+- Use a Unique attractive name for your Cafeteria. (5/15)
+
+3.Design and Layout (15 points):
+- Utilizes CSS to style the layout, fonts, colors, and spacing consistently. (10/15)
+- Responsive design that adjusts well to different screen sizes. (2/15)
+- Proper alignment and spacing for a visually appealing layout. (3/15)
+
+4. Navigation (15 points):
+- The navigation menu is clear and easy to use. (7/15)
+- Links are functional and properly lead to the corresponding sections. (5/15)
+- The owner's biography page is set as the main page, and it directs users to the restaurant's
+main page. (3/15)
+
+5. Interactivity (10 points):
+- Implements interactive features such as hover effects on links or buttons. (5/10)
+- Ensures user-friendly interactions throughout the page. (5/10)
+
+6. Image Usage (10 points):
+- Uses appropriate images that complement the content and enhance the visual appeal,
+indicating it's a homepage for a cafeteria. (5/10)
+- Images are high-quality and relevant to the theme of the page. (5/10)
+
+7. Buttons Usage (10 points):
+- Buttons are strategically placed and visually distinct. (5/10)
+- Functional buttons for actions such as ordering, subscribing, or signing up for rewards. (5/10)
+
+8. File Names and Submission to Git (10 points):
+- HTML, CSS, JavaScript (if any), and image file names are appropriate and descriptive. (5/10)
+- All files are organized and properly linked within the project. (3/10)
+- Submission of the project to a Git repository with a clear commit history demonstrating
+progress and version control. (2/10)
+
+9. Code Quality and Comments (10 points):
+- The code is well-organized, readable, and follows best practices. (5/10)
+- Comments are used to explain complex sections of code or logic. (3/10)
+- Ensures clean and efficient code without unnecessary repetitions. (2/10)
+
+Total Points: 100
+
+SUBMISSION:
+Before the deadline, it must be turned in on Canvas and in the GitHub Assignment 1 folder.
+• Create a main folder named assign1_firstname_lastname-Section Number (e.g.,
+assign1_Mark_smith-19387).
+• Place html files under HTML folder.
+• Place css files under CSS folder.
+• Place images under the Image folder.
+• Right-click the main folder you want to compress / zip.
+• Choose "Send to" and then "Compressed (zipped) folder." A zipped version of your folder
+will appear in the same location. Upload that ZIP file on GitHub and Canvas.
