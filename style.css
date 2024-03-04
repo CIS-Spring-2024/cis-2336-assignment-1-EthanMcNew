@@ -37,7 +37,6 @@ figure {
     width: 300px;
     border-radius: 50%;
     border: 5px solid darkblue;
-    vertical-align: top;
 }
 
 #biophoto figcaption {
