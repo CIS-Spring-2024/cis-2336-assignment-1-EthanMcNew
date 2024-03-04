@@ -1,4 +1,4 @@
-POINTS: 5
+POINTS: 23
 
 Description:
 Design and develop the owner of the UOH Sugarland cafeteria's biographical page.
@@ -14,12 +14,12 @@ RUBRICS FOR ASSIGNMENT 1
 1. HTML Structure (10 points):
 (DONE) - The HTML file is correctly structured with `<!DOCTYPE html>`, `<html>`, `<head>`, and
         `<body>` tags. (5/10)
-- Proper use of semantic tags such as `<header>`, `<main>`, `<section>`, and `<footer>`. (5/10)
+(DONE) - Proper use of semantic tags such as `<header>`, `<main>`, `<section>`, and `<footer>`. (5/10)
 
 2. Content (15 points):
 - Contains relevant content including title, navigation menu, welcome message, contact
 information, and call-to-action buttons. (10/15)
-- Use a Unique attractive name for your Cafeteria. (5/15)
+(DONE) - Use a Unique attractive name for your Cafeteria. (5/15)
 
 3.Design and Layout (15 points):
 - Utilizes CSS to style the layout, fonts, colors, and spacing consistently. (10/15)
@@ -28,8 +28,8 @@ information, and call-to-action buttons. (10/15)
 
 4. Navigation (15 points):
 - The navigation menu is clear and easy to use. (7/15)
-- Links are functional and properly lead to the corresponding sections. (5/15)
-- The owner's biography page is set as the main page, and it directs users to the restaurant's
+(DONE) - Links are functional and properly lead to the corresponding sections. (5/15)
+(DONE) - The owner's biography page is set as the main page, and it directs users to the restaurant's
 main page. (3/15)
 
 5. Interactivity (10 points):
