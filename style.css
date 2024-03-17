@@ -71,6 +71,7 @@ a:hover {
 
 #biophoto {
     padding: 20px;
+    text-align: center;
 }
 
 #biophoto img {
@@ -81,9 +82,7 @@ a:hover {
 
 #biophoto figcaption {
     margin-top: 10px;
-    text-align: center;
 }
-
 
 /*Associated with main.html*/
 #homepage_header {
