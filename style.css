@@ -1,3 +1,4 @@
+/*Associated with ALL files (generic)*/
 * {
     margin: 0;
     padding: 0;
@@ -12,9 +13,9 @@ body {
 
 header h1 {
     padding: 100px;
-    font-size: 40px;
+    font-size: 60px;
     color: oldlace;
-    text-shadow: 2px 2px black;
+    text-shadow: 3px 3px black;
     border: 3px solid #6c1e0e;
     text-align: center;
 }
@@ -31,11 +32,14 @@ footer img {
     height: 50px;
 }
 
-/*Edit the top navigation to work*/
 .topnav {
     background-color: burlywood;
     list-style-type: none;
     overflow: hidden;
+}
+
+.topnav li{
+    float: left;
 }
 
 .topnav a {
@@ -43,10 +47,6 @@ footer img {
     text-align: center;
     padding: 10px;
     display: block;
-}
-
-.topnav li{
-    float: left;
 }
 
 .topnav a.active {
@@ -62,12 +62,14 @@ a, a:visited {
 a:hover {
     background: #bb2017;
     color: antiquewhite;
+    text-shadow: none;
 }
 
 /*Associated with index.html*/
-
 #bio_header {
     background-image: url('chinesefoodbg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 #biophoto {
@@ -85,31 +87,28 @@ a:hover {
 
 #biophoto figcaption {
     margin-top: 10px;
-    color: aliceblue;
+    color: antiquewhite;
 }
 
 .bio_section {
-    margin: 20px
+    margin: 20px;
 }
 
-/*OK*/
 #mainlink {
     padding: 60px 0;
     text-align: center;
-    background-color: #dad52e;
+    background-color: burlywood;
 }
 
 /*Associated with main.html*/
-/*OK*/
 #homepage_header {
     background-image: url('shoyuramenbg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-/*OK*/
 #maintomenu {
-    margin-bottom: 50px;
+    margin-bottom: 80px;
     padding: 200px 0;
     background-image: url('japanesebuffet.jpg');
     background-repeat: no-repeat;
@@ -117,11 +116,29 @@ a:hover {
     text-align: center;
 }
 
-/*OK*/
 #maintoabout {
     padding: 200px 0;
     background-image: url('restaurantteam.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
+}
+
+#maintomenu h2 {
+    color: antiquewhite;
+    text-shadow: 2px 2px chocolate;
+    margin-bottom: 30px;
+}
+
+#maintomenu p, #maintoabout p {
+    padding: 10px;
+    background-color: #bb2017;
+    color: antiquewhite;
+    width: fit-content;
+    margin: auto;
+}
+
+.linkfrommain {
+    text-shadow: 1px 1px black;
+    margin-top: 30px;
 }

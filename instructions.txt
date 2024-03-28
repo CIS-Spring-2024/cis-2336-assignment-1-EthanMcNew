@@ -1,4 +1,4 @@
-POINTS: 23
+POINTS: 85
 
 Description:
 Design and develop the owner of the UOH Sugarland cafeteria's biographical page.
@@ -17,46 +17,46 @@ RUBRICS FOR ASSIGNMENT 1
 (DONE) - Proper use of semantic tags such as `<header>`, `<main>`, `<section>`, and `<footer>`. (5/10)
 
 2. Content (15 points):
-- Contains relevant content including title, navigation menu, welcome message, contact
+(DONE) - Contains relevant content including title, navigation menu, welcome message, contact
 information, and call-to-action buttons. (10/15)
 (DONE) - Use a Unique attractive name for your Cafeteria. (5/15)
 
 3.Design and Layout (15 points):
-- Utilizes CSS to style the layout, fonts, colors, and spacing consistently. (10/15)
-- Responsive design that adjusts well to different screen sizes. (2/15)
-- Proper alignment and spacing for a visually appealing layout. (3/15)
+- (DONE) Utilizes CSS to style the layout, fonts, colors, and spacing consistently. (10/15)
+- (DONE) Responsive design that adjusts well to different screen sizes. (2/15)
+- (DONE) Proper alignment and spacing for a visually appealing layout. (3/15)
 
 4. Navigation (15 points):
-- The navigation menu is clear and easy to use. (7/15)
+(DONE) - The navigation menu is clear and easy to use. (7/15)
 (DONE) - Links are functional and properly lead to the corresponding sections. (5/15)
 (DONE) - The owner's biography page is set as the main page, and it directs users to the restaurant's
 main page. (3/15)
 
 5. Interactivity (10 points):
-- Implements interactive features such as hover effects on links or buttons. (5/10)
-- Ensures user-friendly interactions throughout the page. (5/10)
+(DONE) - Implements interactive features such as hover effects on links or buttons. (5/10)
+(DONE) - Ensures user-friendly interactions throughout the page. (5/10)
 
 6. Image Usage (10 points):
-- Uses appropriate images that complement the content and enhance the visual appeal,
+(DONE) - Uses appropriate images that complement the content and enhance the visual appeal,
 indicating it's a homepage for a cafeteria. (5/10)
-- Images are high-quality and relevant to the theme of the page. (5/10)
+(DONE) - Images are high-quality and relevant to the theme of the page. (5/10)
 
 7. Buttons Usage (10 points):
-- Buttons are strategically placed and visually distinct. (5/10)
-- Functional buttons for actions such as ordering, subscribing, or signing up for rewards. (5/10)
+(DONE) - Buttons are strategically placed and visually distinct. (5/10)
+(DONE) - Functional buttons for actions such as ordering, subscribing, or signing up for rewards. (5/10)
 
 8. File Names and Submission to Git (10 points):
-- HTML, CSS, JavaScript (if any), and image file names are appropriate and descriptive. (5/10)
-- All files are organized and properly linked within the project. (3/10)
+(DONE) - HTML, CSS, JavaScript (if any), and image file names are appropriate and descriptive. (5/10)
+(DONE) - All files are organized and properly linked within the project. (3/10)
 - Submission of the project to a Git repository with a clear commit history demonstrating
 progress and version control. (2/10)
 
 9. Code Quality and Comments (10 points):
-- The code is well-organized, readable, and follows best practices. (5/10)
-- Comments are used to explain complex sections of code or logic. (3/10)
-- Ensures clean and efficient code without unnecessary repetitions. (2/10)
+(DONE) - The code is well-organized, readable, and follows best practices. (5/10)
+(DONE) - Comments are used to explain complex sections of code or logic. (3/10)
+(DONE) - Ensures clean and efficient code without unnecessary repetitions. (2/10)
 
-Total Points: 100
+Total Points: 105
 
 SUBMISSION:
 Before the deadline, it must be turned in on Canvas and in the GitHub Assignment 1 folder.
